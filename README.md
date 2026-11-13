@@ -208,6 +208,7 @@ Contributions are most welcome. Categories are also open to suggestions!
 
 ### Hosted
 - [JSON Generator](http://www.json-generator.com/): Generate and host mock JSON data.
+- [NextJSON](https://nextjson.com/): Free online nested JSON parser and formatter that decodes escaped JSON strings.
 
 ### Desktop
 - [Postman](https://www.getpostman.com): Desktop API testing tool.
